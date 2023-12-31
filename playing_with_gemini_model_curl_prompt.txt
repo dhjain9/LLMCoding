@@ -1,0 +1,64 @@
+#curl -H "Content-Type: application/json" \
+# -d "{"contents":[{"parts":[{"text":\"What version of gemmini model are you \"}\
+# ]}]}" \
+# -X POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:\
+# generateContent?key=AIzaSyDVFJ3Aog_LVJoVvwDJbwPdvM7YW39oc0A
+#
+
+C:\Users\dhanendra\ML\repo2\MLCoding>curl -H "Content-Type: application/json" -d "{"contents":[{"parts":[{"text":\"What version of gemmini model are you \"}]}]}" -X POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyDVFJ3Aog_LVJoVvwDJbwPdvM7YW39oc0A
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "As an AI language model, I don't have a version or a specific model like Gemmini. I'm a large language model trained by Google, designed to understand and respond to a wide range of natural language inputs. I'm not a specific model or software application like Gemmini."
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0,
+      "safetyRatings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ]
+    }
+  ],
+  "promptFeedback": {
+    "safetyRatings": [
+      {
+        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+        "probability": "NEGLIGIBLE"
+      },
+      {
+        "category": "HARM_CATEGORY_HATE_SPEECH",
+        "probability": "NEGLIGIBLE"
+      },
+      {
+        "category": "HARM_CATEGORY_HARASSMENT",
+        "probability": "NEGLIGIBLE"
+      },
+      {
+        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+        "probability": "NEGLIGIBLE"
+      }
+    ]
+  }
+}
+
+C:\Users\dhanendra\ML\repo2\MLCoding>
