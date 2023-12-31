@@ -1,0 +1,20 @@
+C:\Users\dhanendra\ML\repo2\LLMCoding>python Gemini_model_simple_prompt_response.py
+models/gemini-pro
+models/gemini-pro-vision
+The meaning of life is a philosophical question that has been pondered by humans for centuries. There is no one answer that is universally agreed upon, and the meaning of life can be different for each individual.
+
+Some people believe that the meaning of life is to find happiness and fulfillment. Others believe that it is to make a difference in the world and leave a legacy. Still others believe that the meaning of life is to simply experience it and enjoy the journey.
+
+There is no right or wrong answer to the question of what is the meaning of life. The most important thing is to find what gives you meaning and purpose, and to live your life accordingly.
+
+Here are some common themes that emerge when people talk about the meaning of life:
+
+* **To love and be loved:** Many people believe that the most important thing in life is to love and be loved. This can include romantic love, love for family and friends, or even love for oneself.
+* **To make a difference:** Some people believe that the meaning of life is to make a difference in the world. This can be done through big or small acts of kindness, or by working to improve the world in some way.
+* **To find happiness and fulfillment:** Many people believe that the meaning of life is to find happiness and fulfillment. This can be done through a variety of means, such as pursuing one's passions, spending time with loved ones, or experiencing new things.
+* **To simply experience it:** Some people believe that the meaning of life is to simply experience it. This can involve appreciating the beauty of nature, savoring the moments of joy, and learning from the challenges that life throws our way.
+
+Ultimately, the meaning of life is a personal question that each individual must answer for themselves. There is no right or wrong answer, and the most important thing is to find what gives you meaning and purpose, and to live your life accordingly.
+
+C:\Users\dhanendra\ML\repo2\LLMCoding>
+C:\Users\dhanendra\ML\repo2\LLMCoding>
