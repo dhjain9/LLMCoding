@@ -5,7 +5,7 @@
 # generateContent?key=AIzaSyDVFJ3Aog_LVJoVvwDJbwPdvM7YW39oc0A
 #
 
-C:\Users\dhanendra\ML\repo2\MLCoding>curl -H "Content-Type: application/json" -d "{"contents":[{"parts":[{"text":\"What version of gemmini model are you \"}]}]}" -X POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyDVFJ3Aog_LVJoVvwDJbwPdvM7YW39oc0A
+C:\Users\dhanendra\ML\repo2\MLCoding>curl -H "Content-Type: application/json" -d "{"contents":[{"parts":[{"text":\"What version of gemmini model are you \"}]}]}" -X POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=****SyDVFJ3Aog_LVJoVvwDJbwPdvM7YW*****
 {
   "candidates": [
     {
