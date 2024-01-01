@@ -18,7 +18,7 @@ import google.generativeai as genai
 
 # Or use `os.getenv('GOOGLE_API_KEY')` to fetch an environment variable.
 # Generate API key from https://ai.google.dev/tutorials/python_quickstart
-GOOGLE_API_KEY="AIzaSyDVFJ3Aog_LVJoVvwDJbwPdvM7YW39oc0A"
+GOOGLE_API_KEY="****SyDVFJ3Aog_LVJoVvwDJbwPdvM7Y****"
 
 genai.configure(api_key=GOOGLE_API_KEY)
 
